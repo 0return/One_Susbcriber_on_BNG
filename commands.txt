@@ -1,1 +1,10 @@
-# running bngbngblaster -c /configs/ipoe.json  # interface informationip a 
+# running bngblaster
+
+bngblaster -c /configs/ipoe.json
+ 
+ 
+# interface information in bngblaster
+
+ip a
+
+ 
