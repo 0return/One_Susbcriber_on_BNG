@@ -1,1 +1,15 @@
-{  "interfaces": {    "access": [      {        "interface": "eth1",        "type": "ipoe",        "outer-vlan": 100      }    ]  },  "dhcp": {    "enable": true,    "broadcast": true  }}
+{
+  "interfaces": {
+    "access": [
+      {
+        "interface": "eth1",
+        "type": "ipoe",
+        "outer-vlan": 100
+      }
+    ]
+  },
+  "dhcp": {
+    "enable": true,
+    "broadcast": true
+  }
+}
