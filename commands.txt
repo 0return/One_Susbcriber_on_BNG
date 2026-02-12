@@ -1,0 +1,1 @@
+# running bngbngblaster -c /configs/ipoe.json  # interface informationip a 
